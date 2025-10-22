@@ -45,7 +45,7 @@ Hilt를 이용해 의존성 주입을 관리하고, ViewModel과 StateFlow로 �
 
 ## 사용 기술
 
-- Kotlin, Jetpack Compose, Jetpack 라이브러리
-- Clean Architecture, Hilt
-- Kakao SDK 
-- Coroutines, Retrofit, OkHttp, Gson
+- Kotlin, Jetpack Compose, Jetpack Libraries (ViewModel, Room, LiveData 등)
+- Clean Architecture, Hilt(DI)
+- Naver Search API
+- Coroutines, Flow, Retrofit, OkHttp, Gson
