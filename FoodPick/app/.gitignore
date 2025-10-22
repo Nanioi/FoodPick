@@ -1,0 +1,35 @@
+/build
+
+# Gradle
+.gradle/
+build/
+
+# Android Studio
+.idea/
+*.iml
+
+# Local config
+local.properties
+
+# OS / System
+.DS_Store
+Thumbs.db
+
+# NDK
+.externalNativeBuild/
+.cxx/
+
+# Output
+*.apk
+*.aab
+
+# Keys
+*.jks
+*.keystore
+
+# Logs
+*.log
+
+# Test / Coverage
+/test-results/
+/coverage/
