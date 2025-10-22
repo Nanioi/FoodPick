@@ -23,11 +23,10 @@ Hilt를 이용해 의존성 주입을 관리하고, ViewModel과 StateFlow로 �
 
 ## 📸 ScreenShot
 
-<img src="https://github.com/user-attachments/assets/35fdddc6-19c5-4860-bf63-bfe1789a967f" height="450">
-<img src="https://github.com/user-attachments/assets/3884e36b-2ed3-417d-9c10-02c69b86c455" height="450">
-<img src="https://github.com/user-attachments/assets/fedccff5-2e2f-471e-91a9-348a6535e476" height="450">
-<img src="https://github.com/user-attachments/assets/f7ca5b42-38df-4e68-b663-9f931950866b" height="450">
-
+<img src="https://github.com/user-attachments/assets/4c4fe7ef-b7c2-4e23-acc7-6f484032d6e2" height="480">
+<img src="https://github.com/user-attachments/assets/3e62d8a9-c9a5-4258-8fba-7b54007d89af" height="480">
+<img src="https://github.com/user-attachments/assets/f99acbdd-c4d9-4538-af78-9bd068ba207c" height="480">
+<img src="https://github.com/user-attachments/assets/65647c23-040b-4580-bd81-fa8dff145f83" height="480">
 
 
 ## 주요 구현사항
