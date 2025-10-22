@@ -43,9 +43,13 @@ Hilt를 이용해 의존성 주입을 관리하고, ViewModel과 StateFlow로 �
 - Hilt로 의존성 주입 관리
 - 공통 매퍼/유틸/상수 분리해 재사용성 향상
 
-## 사용 기술
+## Skills
 
-- Kotlin, Jetpack Compose, Jetpack Libraries (ViewModel, Room, LiveData 등)
-- Clean Architecture, Hilt(DI)
-- Naver Search API
-- Coroutines, Flow, Retrofit, OkHttp, Gson
+- 언어: Kotlin
+- UI: Jetpack Compose
+- 아키텍처: Clean Architecture 기반 (Presentation, Domain, Data 계층 분리)
+- DI: Hilt
+- 비동기 처리: Coroutines, Flow
+- 데이터 저장소: Room
+- 네트워크 통신: Retrofit + OkHttp + Gson
+- 외부 API: Naver Search API (음식점 검색)
